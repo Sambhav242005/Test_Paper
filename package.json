@@ -1,0 +1,24 @@
+{
+  "name": "test_paper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambhav242005/Test_Paper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambhav242005/Test_Paper/issues"
+  },
+  "homepage": "https://github.com/Sambhav242005/Test_Paper#readme",
+  "dependencies": {
+    "css": "^3.0.0",
+    "php": "^1.0.2",
+    "sass": "^1.50.0"
+  }
+}
